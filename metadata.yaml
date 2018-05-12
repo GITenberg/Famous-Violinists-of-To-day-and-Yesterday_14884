@@ -1,0 +1,34 @@
+_repo: Famous-Violinists-of-To-day-and-Yesterday_14884
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lahee, Henry Charles
+    birthdate: 1856
+    deathdate: 1953
+    gutenberg_agent_id: '5731'
+    url: http://www.gutenberg.org/2009/agents/5731
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Charles_Lahee
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2005-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Violinists'
+- !lcsh 'Bull, Ole, 1810-1880'
+- !lcsh 'Paganini, Nicolò, 1782-1840'
+- !lcc 'ML'
+- !lcsh 'Joachim, Joseph, 1831-1907'
+tableOfContents: Introductory -- 1650 to 1750 -- 1750 to 1800 -- Paganini -- 1800
+  to 1830 -- Ole Bull -- 1830 to 1850 -- Joachim -- Violinists of to-day -- Women
+  as violinists -- Famous quartets -- Chronological table of famous violinists.
+title: Famous Violinists of To-day and Yesterday
+url: http://www.gutenberg.org/ebooks/14884
